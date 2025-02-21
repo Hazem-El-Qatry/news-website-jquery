@@ -417,11 +417,13 @@ header.shadow {
 }
 
 @media (max-width: 570px) {
+  .home-title {
+    font-size: 2.2rem !important;
+  }
   .back-home {
     font-size: 0.8rem;
     margin-bottom: 0.7rem;
   }
-
   .post-header {
     height: 400px;
   }
